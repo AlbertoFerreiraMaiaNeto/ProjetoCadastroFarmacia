@@ -1,0 +1,17 @@
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\bin\Debug\FarmaciaPagueMenos.exe.config
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\bin\Debug\FarmaciaPagueMenos.exe
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\bin\Debug\FarmaciaPagueMenos.pdb
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.csprojAssemblyReference.cache
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.Form1.resources
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.Properties.Resources.resources
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.csproj.GenerateResource.cache
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.exe
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.pdb
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.form_JaSouCliente.resources
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.form_Cadastrar.resources
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.form_Bemvindo.resources
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\bin\Debug\FarmaciaPagueMenos.exe.manifest
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\bin\Debug\FarmaciaPagueMenos.application
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.exe.manifest
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.application
+C:\Users\Neto\source\repos\FarmaciaPagueMenos\FarmaciaPagueMenos\obj\Debug\FarmaciaPagueMenos.Promocoes.resources
